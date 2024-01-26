@@ -72,7 +72,7 @@ footer p {
   padding: 2vh;
 }
 .sfondo_testa {
-  background-image: url(/Epicode_progettone_1/Assets/IMG/banner.jpg);
+  background-image: url(Assets/IMG/banner.jpg);
   background-size: cover;
   padding: 0.5em 1.5em 0.9em 1.5em;
 }
