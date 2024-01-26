@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+
+body {
+  color: #393d41;
+  font-size: 1.2rem;
+  font-family: open;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100vw;
+}
+#garanzia {
+  background-color: #e22d0e;
+  padding: 1.7em 1.5em;
+}
+#garanzia h2 {
+  color: white;
+}
+#garanzia p {
+  color: white;
+  margin: 1em 0 0 0;
+  padding: 0;
+}
+#garanzia cite {
+  color: white;
+  font-size: 0.8em;
+}
+#garanzia span {
+  color: white;
+  font-size: 0.7em;
+}
+
+h1,
+h2,
+h3 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+footer {
+  color: #c8e7f0;
+  background-color: #25a2c3;
+  padding: 2vh;
+  padding-bottom: 1vh;
+}
+footer h2 {
+  color: white;
+}
+footer a {
+  color: #c8e7f0;
+}
+footer p {
+  margin: 0;
+}
+.copyright {
+  border-top: 1px solid white;
+  padding: 2.5vh;
+  margin: 4vh;
+  font-size: 0.8em;
+}
+
+.sfondo_logo {
+  background-color: black;
+  height: 12vh;
+}
+.sfondo_logo img {
+  width: 30%;
+  padding: 1.4em;
+}
+.sfondo_testa {
+  background-image: url(/Epicode_progettone_1/Assets/IMG/banner.jpg);
+  background-size: cover;
+  padding: 0.5em 1.5em 0.9em 1.5em;
+}
+.button {
+  color: white;
+  font-size: 1em;
+  background-color: #f04c2f;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  border-radius: 8px;
+  width: 150px;
+  height: 50px;
+  margin: 4vh auto;
+}
+.button p {
+  margin: 0;
+  padding: 0.5em;
+  color: white;
+}
+.button a {
+  color: white;
+}
+img {
+  width: 100vw;
+}
+.motivi_lavoro {
+  padding: 2em auto 0 auto;
+}
+.motivi_lavoro p {
+  padding: 0 2vh 2vh 2vh;
+}
+.motivi_lavoro h3 {
+  margin: 1em 0 0 0;
+}
+.motivi_lavoro img {
+  margin: 1em 0 0 0;
+}
+.elenco_punti_forti {
+  width: 87%;
+  margin: 7vh auto 4vh auto;
+  padding: auto;
+  border: 1px solid #dee1e3;
+}
+#spazziatura {
+  padding: 3.5vh 1vh;
+}
+#spazziatura img {
+  margin: 0;
+}
+.aticolo_benefit p {
+  margin: 2vh;
+  padding: 6vh auto 6vh auto;
+}
+.elenco_punti_forti img {
+  width: 100%;
+  margin: 0;
+}
+.elenco_punti_forti_2 {
+  width: 87%;
+  margin: 4vh auto;
+  padding: 2vh auto;
+  border: 1px solid #dee1e3;
+}
+.elenco_punti_forti_2 img {
+  width: 100%;
+  margin: 0;
+}
+.elenco_punti_forti_3 {
+  width: 87%;
+  margin: 4vh auto 7vh auto;
+  padding: 3vh auto;
+  border: 1px solid #dee1e3;
+}
+.elenco_punti_forti_3 img {
+  width: 100%;
+  margin: 0;
+}
+
+#immagine_tonda img {
+  width: 75%;
+  border-radius: 50%;
+}
